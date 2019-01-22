@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17592" started-at="2019-01-22T05:32:25Z" finished-at="2019-01-22T05:32:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17592" started-at="2019-01-22T05:32:25Z" finished-at="2019-01-22T05:32:43Z">
+      <class name="com.tests.NewTest5">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.tests.NewTest5@5e5792a0]" name="beforeTest" is-config="true" duration-ms="7442" started-at="2019-01-22T05:32:25Z" finished-at="2019-01-22T05:32:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:com.tests.NewTest5@5e5792a0]" name="testDemoWebShopLogin" duration-ms="2773" started-at="2019-01-22T05:32:33Z" data-provider="dp1" finished-at="2019-01-22T05:32:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@email.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:com.tests.NewTest5@5e5792a0]" name="testDemoWebShopLogin" duration-ms="2443" started-at="2019-01-22T05:32:36Z" data-provider="dp1" finished-at="2019-01-22T05:32:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@ymail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:com.tests.NewTest5@5e5792a0]" name="testDemoWebShopLogin" duration-ms="1361" started-at="2019-01-22T05:32:39Z" data-provider="dp1" finished-at="2019-01-22T05:32:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askxyz@abc.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:com.tests.NewTest5@5e5792a0]" name="testDemoWebShopLogin" duration-ms="2697" started-at="2019-01-22T05:32:40Z" data-provider="dp1" finished-at="2019-01-22T05:32:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[askmail@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.tests.NewTest5@5e5792a0]" name="afterTest" is-config="true" duration-ms="162" started-at="2019-01-22T05:32:43Z" finished-at="2019-01-22T05:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.tests.NewTest5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
